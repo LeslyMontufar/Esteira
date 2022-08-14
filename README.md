@@ -20,3 +20,4 @@ Uso de conversor AD para mudar intensidade do led conforme a resistência de um 
 A contagem dos objetos deve ser feita através de um timer configurado para contagem de pulsos. PA0 pode ser o botão do operador e PC13 a indicação de esteira parada.
 
 ## Desenvolvimento
+1. 
